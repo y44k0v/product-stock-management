@@ -1,0 +1,14 @@
+/home/y44k0v/dev/dotnet/10_ProductInventory/bin/Debug/net9.0/10_ProductInventory
+/home/y44k0v/dev/dotnet/10_ProductInventory/bin/Debug/net9.0/10_ProductInventory.deps.json
+/home/y44k0v/dev/dotnet/10_ProductInventory/bin/Debug/net9.0/10_ProductInventory.runtimeconfig.json
+/home/y44k0v/dev/dotnet/10_ProductInventory/bin/Debug/net9.0/10_ProductInventory.dll
+/home/y44k0v/dev/dotnet/10_ProductInventory/bin/Debug/net9.0/10_ProductInventory.pdb
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.AssemblyInfoInputs.cache
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.AssemblyInfo.cs
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.csproj.CoreCompileInputs.cache
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.dll
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/refint/10_ProductInventory.dll
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.pdb
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.genruntimeconfig.cache
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/ref/10_ProductInventory.dll
