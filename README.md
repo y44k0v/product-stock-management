@@ -1,4 +1,4 @@
-# Product Management System 
+# Product Stock Management System 
 
 ## Project Requirements
 ### Functional Requirements
