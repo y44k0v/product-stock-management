@@ -15,7 +15,7 @@ The app should have an intuitive interface that allow user to create, update an 
  * Complete testing and debugging resolving   99% of critical bugs before release
 
 ## Design Outline
-![General structure](./diagram.png)
+![General structure](./Diagram.drawio.png)
 
 #### Modules
  * Reviewing products

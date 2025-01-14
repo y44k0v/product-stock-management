@@ -12,3 +12,4 @@
 /home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.pdb
 /home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.genruntimeconfig.cache
 /home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/ref/10_ProductInventory.dll
+/home/y44k0v/dev/dotnet/10_ProductInventory/obj/Debug/net9.0/10_ProductInventory.sourcelink.json
