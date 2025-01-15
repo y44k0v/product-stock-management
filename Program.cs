@@ -96,7 +96,8 @@ namespace ProductStockManagement {
                 return;
             }
             // Set the culture to a specific culture, e.g., "en-US" for US dollars
-CultureInfo.CurrentCulture = new CultureInfo("en-US");
+            CultureInfo.CurrentCulture = new CultureInfo("en-US");
+
             Console.WriteLine("\n***** Product List *****");
             foreach (var product in inventory) {
                 Console.WriteLine($"Name: {product.Name}, Price: {product.Price:C}, Stock: {product.Stock}");
@@ -117,11 +118,5 @@ CultureInfo.CurrentCulture = new CultureInfo("en-US");
             inventory.Remove(product);
             Console.WriteLine("Product removed successfully!");
         }
-    }
-
-    class Product {
-        public required string Name { get; set; }
-        public decimal Price { get; set; }
-        public int Stock { get; set; }
     }
 }
