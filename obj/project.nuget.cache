@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MBN6xp5RKiE=",
+  "dgSpecHash": "KcgEVnL4zkc=",
   "success": true,
-  "projectFilePath": "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/y44k0v/dev/dotnet/product-stock-management/product-stock-management.csproj",
+  "expectedPackageFiles": [
+    "/home/y44k0v/.nuget/packages/pastel/6.0.1/pastel.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

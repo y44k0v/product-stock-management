@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Pastel/6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Pastel/6.0.1": {
+      "sha512": "7naIbEgNzZnorWWIfI0rsC4GUtw/Yjqt+Kd28e8xpzfsaismJ02WF4vG/USDbmJQkBMWPsNPM+KUxNlUiGad+w==",
+      "type": "package",
+      "path": "pastel/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.png",
+        "lib/net462/Pastel.dll",
+        "lib/net462/Pastel.xml",
+        "lib/net8.0/Pastel.dll",
+        "lib/net8.0/Pastel.xml",
+        "lib/net9.0/Pastel.dll",
+        "lib/net9.0/Pastel.xml",
+        "pastel.6.0.1.nupkg.sha512",
+        "pastel.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Pastel >= 6.0.1"
+    ]
   },
   "packageFolders": {
     "/home/y44k0v/.nuget/packages/": {}
@@ -13,9 +50,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj",
-      "projectName": "10_ProductInventory",
-      "projectPath": "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj",
+      "projectUniqueName": "/home/y44k0v/dev/dotnet/product-stock-management/product-stock-management.csproj",
+      "projectName": "product-stock-management",
+      "projectPath": "/home/y44k0v/dev/dotnet/product-stock-management/product-stock-management.csproj",
       "packagesPath": "/home/y44k0v/.nuget/packages/",
       "outputPath": "/home/y44k0v/dev/dotnet/product-stock-management/obj/",
       "projectStyle": "PackageReference",
@@ -49,6 +86,12 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "Pastel": {
+            "target": "Package",
+            "version": "[6.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
