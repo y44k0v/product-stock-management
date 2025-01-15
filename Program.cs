@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
+
+
 
 namespace ProductStockManagement {
     class Program {
@@ -92,7 +95,8 @@ namespace ProductStockManagement {
                 Console.WriteLine("No products in inventory.");
                 return;
             }
-
+            // Set the culture to a specific culture, e.g., "en-US" for US dollars
+CultureInfo.CurrentCulture = new CultureInfo("en-US");
             Console.WriteLine("\n***** Product List *****");
             foreach (var product in inventory) {
                 Console.WriteLine($"Name: {product.Name}, Price: {product.Price:C}, Stock: {product.Stock}");

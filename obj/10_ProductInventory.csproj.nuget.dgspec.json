@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/y44k0v/dev/dotnet/10_ProductInventory/10_ProductInventory.csproj": {}
+    "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj": {}
   },
   "projects": {
-    "/home/y44k0v/dev/dotnet/10_ProductInventory/10_ProductInventory.csproj": {
+    "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/y44k0v/dev/dotnet/10_ProductInventory/10_ProductInventory.csproj",
+        "projectUniqueName": "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj",
         "projectName": "10_ProductInventory",
-        "projectPath": "/home/y44k0v/dev/dotnet/10_ProductInventory/10_ProductInventory.csproj",
+        "projectPath": "/home/y44k0v/dev/dotnet/product-stock-management/10_ProductInventory.csproj",
         "packagesPath": "/home/y44k0v/.nuget/packages/",
-        "outputPath": "/home/y44k0v/dev/dotnet/10_ProductInventory/obj/",
+        "outputPath": "/home/y44k0v/dev/dotnet/product-stock-management/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/y44k0v/.nuget/NuGet/NuGet.Config"
